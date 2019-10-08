@@ -1,8 +1,8 @@
 # Demo Project README
-This is a simple reading file.
+This is a simple reading files.
 
-la;kslk;adjsf;lj
+la;kslk;sadf;lj
 
 add'l notes
 
-on a branch that's bad
+on a branch that's bad 
