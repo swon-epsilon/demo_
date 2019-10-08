@@ -1,8 +1,7 @@
 # Demo Project README
-This is a simple reading files.
 
-la;kslk;sadf;lj
+la;kslk;asdf;lj
 
-add'l notes
+additional notes
 
 on a branch that's bad 
